@@ -1,0 +1,18 @@
+unmapAll
+map d scrollDown
+map s scrollUp
+map D scrollPageDown
+map S scrollPageUp
+map j scrollDown
+map k scrollUp
+map J scrollPageDown
+map K scrollPageUp
+map fb LinkHints.activateModeToOpenInNewTab
+map ff LinkHints.activateMode
+map [ previousTab
+map ] nextTab
+map xx removeTab
+map cc goBack
+map vv goForward
+map eu Vomnibar.activateEditUrl
+map ? showHelp
