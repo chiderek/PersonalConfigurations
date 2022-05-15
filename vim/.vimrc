@@ -6,3 +6,7 @@ syntax on
 set tabstop=4
 " Auto indent
 set autoindent
+" Highlight search
+set hlsearch
+" Incremental search results
+set incsearch
